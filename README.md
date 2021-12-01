@@ -4,7 +4,7 @@
 
 Practical session MAV 104 (University of Gothenburg). The purpose of these exercises is to get acquainted with data collected with CTD. During the exercises you will use Jupyter Notebook and the Python programming language to load and visualize data. The dataset you are going to work with consists of CTD data collected along a transect just west of Gibraltar.
 
-The practical is divided in 3 exercies:
+The practical is divided in 3 exercises:
 1. CTD profiles: Vsualize these data in three separate line graphs, one each for temperature, salinity and oxygen respectively.
 2. Visualize CTD transect: In this task, the idea is that you should use all available CTD data from the transect and
 visualize this as a two-dimensional surface with depth along the y-axis, latitude along the x-axis and colors / isolation lines that show the values of the various parameters. 
