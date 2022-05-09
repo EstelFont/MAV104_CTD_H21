@@ -1,6 +1,6 @@
 # MAV104_CTD_H21
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EstelFont/MAV104_CTD_H21/main?labpath=MAV104_CTD_HT21.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EstelFont/MAV104_CTD_H21/HEAD)
 
 Practical session MAV 104 (University of Gothenburg). The purpose of these exercises is to get acquainted with data collected with CTD. During the exercises you will use Jupyter Notebook and the Python programming language to load and visualize data. The dataset you are going to work with consists of CTD data collected along a transect just west of Gibraltar.
 
